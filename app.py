@@ -89,8 +89,7 @@ def carregar_varias_imagens(path):
         imagem =  carrega_imagem(img_path)
         verifica_genero(imagem)
 
-# Para usar essa função, basta remover o comentario da linha abaixo
-# e comentar as funções carrega_imagem("./imagens/img4.jpg") e verifica_genero(imagem)
+# Para usar essa função, basta remover o comentario da linha abaixo e comentar as funções carrega_imagem("./imagens/img4.jpg") e verifica_genero(imagem)
 #carregar_varias_imagens('./imagens')
 
 imagem =  carrega_imagem("./imagens/img1.jpg")
